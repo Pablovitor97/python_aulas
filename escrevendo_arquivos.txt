@@ -1,0 +1,8 @@
+Escrevendo em ARQUIVOS NO PYTHON
+
+Podemos usar a função OPEN() paa abrir o aquivo te texto para escrita em python
+temos que informar o nome do arquivo, ex: arquivo = open('nomes.txt', '  a ')
+depois de aberto, usamos o metodo WRITE() para escrever
+EX: arquivo.write()
+
+
